@@ -91,14 +91,8 @@ My success is built on a strategic mission towards global impact. I don’t rely
 
 ---
 
-### 🚀 Play My Space Flight Mini-Game!
-
-*Click a link below to open an issue. GitHub Actions will process your move and update the board!*
+### 🚀 My GitHub Contribution Space Shooter!
 
 <div align="center">
-  <img src="./space-game/space-game.svg" alt="Space Game Board" />
-  <br/><br/>
-  <a href="https://github.com/Prithic/Prithic/issues/new?title=space-game%7Cup&body=Press+Submit+new+issue+to+move+the+ship+up!">⬆️ Move Up</a> • 
-  <a href="https://github.com/Prithic/Prithic/issues/new?title=space-game%7Cshoot&body=Press+Submit+new+issue+to+fire+your+laser!">🎯 Shoot</a> • 
-  <a href="https://github.com/Prithic/Prithic/issues/new?title=space-game%7Cdown&body=Press+Submit+new+issue+to+move+the+ship+down!">⬇️ Move Down</a>
+  <img src="space-shooter.webp" alt="Space Shooter Animation" />
 </div>
