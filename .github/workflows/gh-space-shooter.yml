@@ -9,6 +9,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
       - name: Generate Space Shooter Animation
         uses: czl9707/gh-space-shooter@v1.4
         with:
