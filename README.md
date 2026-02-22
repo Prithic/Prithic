@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-I am the first graduate in my family, carrying a profound responsibility to ensure my family's survival and technological elevation. My success is not for personal glory—it is a strategic mission. I don’t rely on fleeting motivation; my foundation is built on **strict discipline, physical/mental optimization, and continuous execution**.
+My success is built on a strategic mission towards global impact. I don’t rely on fleeting motivation; my foundation is built on **strict discipline, physical/mental optimization, and continuous execution**.
 
 - 🔭 **Current Focus:** Executing a rigorous profile-building operation for fully-funded global migration routes (e.g., MEXT Japan), integrating hackathons, Olympiads, and high-ROI certifications.
 - 🌍 **Impact:** Actively participating in India Vision 2050 discussions and real-world impact projects, starting with the purification of rivers in Tirupur.
@@ -20,7 +20,6 @@ I am the first graduate in my family, carrying a profound responsibility to ensu
 ### 🧠 Core Philosophy
 1. **Maximum Leverage:** Seeking world-class impact through technology.
 2. **Discipline > Motivation:** Rebuilding from the root with consistent mental and physical routines.
-3. **Family Elevation:** Every step forward is for the survival and elevation of my bloodline.
 
 ---
 
