@@ -1,0 +1,43 @@
+name: Space Game Runner
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  run-game:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'space-game|')
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Parse Action
+        id: parse
+        run: |
+          TITLE="${{ github.event.issue.title }}"
+          ACTION=$(echo $TITLE | cut -d'|' -f 2)
+          echo "action=$ACTION" >> $GITHUB_ENV
+
+      - name: Play Turn
+        run: |
+          python space-game/main.py ${{ env.action }}
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add space-game/board.json space-game/space-game.svg
+          git commit -m "play: ${{ env.action }} move" || echo "No changes to commit"
+          git push
+
+      - name: Close Issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: "Move processed! You can check the updated board on the main README."
