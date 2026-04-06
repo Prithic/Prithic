@@ -29,8 +29,9 @@ I don't just write code; I architect solutions for maximum leverage. My work sit
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,postgres,tensorflow,pytorch,sklearn,pandas,nextjs,react,fastapi,nodejs,tailwind,docker,aws,linux,vercel,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,postgres,rust,go,dart,tensorflow,pytorch,sklearn,pandas,opencv,hf,nextjs,react,fastapi,nodejs,tailwind,express,nestjs,graphql,mongodb,mysql,redis,docker,aws,linux,vercel,github,git,figma,postman,kubernetes,terraform&perline=12&theme=dark" />
 </div>
+
 
 
 ---
