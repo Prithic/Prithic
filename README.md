@@ -47,9 +47,10 @@ I don't just write code; I architect solutions for maximum leverage. My work sit
   <a href="https://scikit-learn.org/stable/documentation.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-Learn" /></a>
   <a href="https://pandas.pydata.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas" /></a>
   <a href="https://docs.opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" /></a>
-  <a href="https://huggingface.co/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=hf" width="40" height="40" alt="HuggingFace" /></a>
+  <a href="https://huggingface.co/docs" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="HuggingFace" /></a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=keras" width="40" height="40" alt="Keras" /></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=matplot" width="40" height="40" alt="Matplotlib" /></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/matplotlib/11557C" width="40" height="40" alt="Matplotlib" /></a>
+
 
   <h3>Advanced Frameworks & Web Ecosystem</h3>
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /></a>
@@ -81,10 +82,10 @@ I don't just write code; I architect solutions for maximum leverage. My work sit
   <a href="https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins" /></a>
   <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /></a>
   <a href="https://docs.microsoft.com/en-us/azure/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" /></a>
-  <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="GCP" /></a>
+  <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="40" height="40" alt="GCP" /></a>
   <a href="https://docs.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /></a>
   <a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel" /></a>
-  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions" /></a>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" alt="GitHub Actions" /></a>
   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
 </div>
 
@@ -118,19 +119,19 @@ I don't just write code; I architect solutions for maximum leverage. My work sit
   <a href="https://github.com/Prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>
   <a href="https://twitter.com/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" /></a>
-  <a href="https://stackoverflow.com/users/your-id" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="StackOverflow" /></a>
+  <a href="https://stackoverflow.com/users/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="StackOverflow" /></a>
   <a href="https://dev.to/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=devto" width="48" height="48" alt="Dev.to" /></a>
   <a href="https://hashnode.com/@prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=hashnode" width="48" height="48" alt="Hashnode" /></a>
   <a href="https://medium.com/@prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=medium" width="48" height="48" alt="Medium" /></a>
   <br />
-  <a href="https://leetcode.com/prithic" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116" height="35" /></a>
-  <a href="https://hackerrank.com/prithic" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-HackerRank-0D1117?style=flat-square&logo=hackerrank&logoColor=2EC866" height="35" /></a>
-  <a href="https://codechef.com/users/prithic" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-CodeChef-0D1117?style=flat-square&logo=codechef&logoColor=5B4638" height="35" /></a>
-  <a href="https://chess.com/member/prithic" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Chess.com-0D1117?style=flat-square&logo=chess.com&logoColor=769656" height="35" /></a>
+  <a href="https://leetcode.com/prithic" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35" height="35" alt="LeetCode" /></a>
+  <a href="https://hackerrank.com/prithic" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="35" height="35" alt="HackerRank" /></a>
+  <a href="https://codechef.com/users/prithic" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="35" height="35" alt="CodeChef" /></a>
+  <a href="https://chess.com/member/prithic" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/chessdotcom/769656" width="35" height="35" alt="Chess.com" /></a>
   <br />
   <a href="https://instagram.com/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" /></a>
   <a href="https://facebook.com/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" alt="Facebook" /></a>
-  <a href="mailto:prithicsp@example.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" /></a>
+  <a href="mailto:prithicsp@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" /></a>
 </div>
 
 
