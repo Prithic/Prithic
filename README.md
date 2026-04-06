@@ -29,8 +29,65 @@ I don't just write code; I architect solutions for maximum leverage. My work sit
 ### 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,postgres,rust,go,dart,tensorflow,pytorch,sklearn,pandas,opencv,hf,nextjs,react,fastapi,nodejs,tailwind,express,nestjs,graphql,mongodb,mysql,redis,docker,aws,linux,vercel,github,git,figma,postman,kubernetes,terraform&perline=12&theme=dark" />
+  <h3>Languages & Scripting</h3>
+  <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" /></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /></a>
+  <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /></a>
+  <a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" /></a>
+  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" /></a>
+  <a href="https://dart.dev/guides" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart" width="40" height="40" alt="Dart" /></a>
+  <a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" /></a>
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=swift" width="40" height="40" alt="Swift" /></a>
+
+  <h3>Artificial Intelligence & Data Intelligence</h3>
+  <a href="https://www.tensorflow.org/api_docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /></a>
+  <a href="https://pytorch.org/docs/stable/index.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /></a>
+  <a href="https://scikit-learn.org/stable/documentation.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-Learn" /></a>
+  <a href="https://pandas.pydata.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas" /></a>
+  <a href="https://docs.opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" /></a>
+  <a href="https://huggingface.co/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=hf" width="40" height="40" alt="HuggingFace" /></a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=keras" width="40" height="40" alt="Keras" /></a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=matplot" width="40" height="40" alt="Matplotlib" /></a>
+
+  <h3>Advanced Frameworks & Web Ecosystem</h3>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" /></a>
+  <a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /></a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="NestJS" /></a>
+  <a href="https://graphql.org/learn/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" /></a>
+  <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="Vite" /></a>
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=svelte" width="40" height="40" alt="Svelte" /></a>
+
+  <h3>Data Systems & Archiving</h3>
+  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /></a>
+  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /></a>
+  <a href="https://redis.io/documentation" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" /></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /></a>
+  <a href="https://sqlite.org/docs.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" /></a>
+  <a href="https://kafka.apache.org/documentation/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" alt="Kafka" /></a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40" alt="RabbitMQ" /></a>
+  <a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="Prisma" /></a>
+  <a href="https://supabase.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" /></a>
+
+  <h3>Infrastructure & Systems Architecture</h3>
+  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>
+  <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" /></a>
+  <a href="https://www.terraform.io/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform" /></a>
+  <a href="https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins" /></a>
+  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /></a>
+  <a href="https://docs.microsoft.com/en-us/azure/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" /></a>
+  <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" alt="GCP" /></a>
+  <a href="https://docs.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /></a>
+  <a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel" /></a>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="GitHub Actions" /></a>
+  <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
 </div>
+
 
 
 
@@ -58,33 +115,24 @@ I don't just write code; I architect solutions for maximum leverage. My work sit
 ### 🌐 Connect Me
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <strong>Professional & Social</strong><br />
-        <a href="https://linkedin.com/in/prithic"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="https://twitter.com/prithic"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-        <a href="https://instagram.com/prithic"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-        <a href="https://facebook.com/prithic"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <strong>Coding & Strategy</strong><br />
-        <a href="https://leetcode.com/prithic"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-        <a href="https://hackerrank.com/prithic"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-        <a href="https://codechef.com/users/prithic"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-        <a href="https://chess.com/member/prithic"><img src="https://img.shields.io/badge/Chess.com-769656?style=for-the-badge&logo=chess.com&logoColor=white" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <strong>Direct</strong><br />
-        <a href="mailto:prithicsp@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" /></a>
+  <a href="https://stackoverflow.com/users/your-id" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="StackOverflow" /></a>
+  <a href="https://dev.to/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=devto" width="48" height="48" alt="Dev.to" /></a>
+  <a href="https://hashnode.com/@prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=hashnode" width="48" height="48" alt="Hashnode" /></a>
+  <a href="https://medium.com/@prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=medium" width="48" height="48" alt="Medium" /></a>
+  <br />
+  <a href="https://leetcode.com/prithic" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LeetCode-0D1117?style=flat-square&logo=leetcode&logoColor=FFA116" height="35" /></a>
+  <a href="https://hackerrank.com/prithic" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-HackerRank-0D1117?style=flat-square&logo=hackerrank&logoColor=2EC866" height="35" /></a>
+  <a href="https://codechef.com/users/prithic" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-CodeChef-0D1117?style=flat-square&logo=codechef&logoColor=5B4638" height="35" /></a>
+  <a href="https://chess.com/member/prithic" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-Chess.com-0D1117?style=flat-square&logo=chess.com&logoColor=769656" height="35" /></a>
+  <br />
+  <a href="https://instagram.com/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" /></a>
+  <a href="https://facebook.com/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" alt="Facebook" /></a>
+  <a href="mailto:prithicsp@example.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" /></a>
 </div>
+
 
 ---
 
