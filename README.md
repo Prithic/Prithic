@@ -47,7 +47,7 @@ Building at the intersection of AI systems and embedded hardware. First-year stu
 <div align="center">
   <a href="https://github.com/Prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/prithic-p" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>
-  <a href="https://x.com/prithic07" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" /></a>
+  <a href="https://x.com/prithic2007" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" /></a>
   <a href="https://stackoverflow.com/users/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="StackOverflow" /></a>
   <a href="https://dev.to/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=devto" width="48" height="48" alt="Dev.to" /></a>
   <a href="https://hashnode.com/@prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=hashnode" width="48" height="48" alt="Hashnode" /></a>
