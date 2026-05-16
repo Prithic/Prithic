@@ -47,7 +47,7 @@ Building at the intersection of AI systems and embedded hardware. First-year stu
 <div align="center">
   <a href="https://github.com/Prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
   <a href="https://linkedin.com/in/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" /></a>
+  <a href="https://x.com/prithic07" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" /></a>
   <a href="https://stackoverflow.com/users/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="StackOverflow" /></a>
   <a href="https://dev.to/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=devto" width="48" height="48" alt="Dev.to" /></a>
   <a href="https://hashnode.com/@prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=hashnode" width="48" height="48" alt="Hashnode" /></a>
@@ -58,9 +58,9 @@ Building at the intersection of AI systems and embedded hardware. First-year stu
   <a href="https://codechef.com/users/prithic" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="35" height="35" alt="CodeChef" /></a>
   <a href="https://chess.com/member/prithic" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/chessdotcom/769656" width="35" height="35" alt="Chess.com" /></a>
   <br />
-  <a href="https://instagram.com/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" /></a>
-  <a href="https://facebook.com/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" alt="Facebook" /></a>
-  <a href="mailto:prithicsp@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" /></a>
+  <a href="https://instagram.com/prithic.07" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" /></a>
+  <a href="https://facebook.com/prithic.07" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" alt="Facebook" /></a>
+  <a href="mailto:prithicprithic2000@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" /></a>
 </div>
 
 
