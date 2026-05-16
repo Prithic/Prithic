@@ -58,7 +58,7 @@ Building at the intersection of AI systems and embedded hardware. First-year stu
   <a href="https://codechef.com/users/prithic" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="35" height="35" alt="CodeChef" /></a>
   <a href="https://chess.com/member/prithic" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/chessdotcom/769656" width="35" height="35" alt="Chess.com" /></a>
   <br />
-  <a href="https://instagram.com/prithic.07" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" /></a>
+  <a href="https://instagram.com/prithic.2007" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" /></a>
   <a href="https://facebook.com/prithic.07" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" alt="Facebook" /></a>
   <a href="mailto:prithicprithic2000@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" /></a>
 </div>
