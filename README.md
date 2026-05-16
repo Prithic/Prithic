@@ -1,115 +1,44 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Prithic.+%F0%9F%91%8B;Building+for+Maximum+Leverage;Elevating+through+Technology;Driven+by+Purpose+and+Discipline" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Prithic.+%F0%9F%91%8B;" alt="Typing SVG" />
+="40" alt="Swift" /></a>
   
-  <h1>AIML Engineer | Systems Architect | Future Founder</h1>
-  
-  <p align="center">
-    <em>"Translating complex algorithms into real-world impact through intentional engineering and radical discipline."</em>
-  </p>
+# Prithic P
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-blue?style=flat-square" alt="Focus" />
-    <img src="https://img.shields.io/badge/Status-Building%20for%20Impact-success?style=flat-square" alt="Status" />
-    <img src="https://img.shields.io/badge/Mission-Global%20Leverage-orange?style=flat-square" alt="Mission" />
-  </p>
-</div>
+**B.Tech AIML · Sri Shakthi Institute of Engineering and Technology · 2024–28**  
+Coimbatore, India
+
+Building at the intersection of AI systems and embedded hardware. First-year student with hands-on experience in sensors, motors, and microcontrollers — now moving up the stack into ML and software systems.
 
 ---
 
-### 🧠 The Mission
+## What I'm Actually Building
 
-I don't just write code; I architect solutions for maximum leverage. My work sits at the intersection of **Artificial Intelligence** and **Global Resource Optimization**. Currently executing a rigorous operation to bridge the gap between academic research and deployable, real-world systems.
+**Neo Humanoid** — Long-term robotics project. Phase 1: C fundamentals, ESP32 firmware, Python data pipeline, Git discipline. Hardware background (sensors, motors) already in place.
 
-- 🔭 **Current Operation:** Engineering high-ROI systems for global migration routes (MEXT Japan) and hackathon dominance.
-- ⚡ **Core Philosophy:** Rebuilding from the root. Discipline is the engine; AI is the fuel.
-- 🌍 **Impact:** Actively contributing to India Vision 2050 and local environmental restoration (Tirupur River Purification).
+**Chitti Portfolio** — Sci-fi themed personal site with a 3D avatar and voice interface. In progress.
 
 ---
 
-### 🛠️ Technical Arsenal
+## Skills I Can Actually Show Code For
 
-<div align="center">
-  <h3>Languages & Scripting</h3>
-  <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="Python" /></a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /></a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /></a>
-  <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++" /></a>
-  <a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rust" width="40" height="40" alt="Rust" /></a>
-  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" /></a>
-  <a href="https://dart.dev/guides" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart" width="40" height="40" alt="Dart" /></a>
-  <a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40" alt="Kotlin" /></a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=swift" width="40" height="40" alt="Swift" /></a>
-
-  <h3>Artificial Intelligence & Data Intelligence</h3>
-  <a href="https://www.tensorflow.org/api_docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /></a>
-  <a href="https://pytorch.org/docs/stable/index.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /></a>
-  <a href="https://scikit-learn.org/stable/documentation.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="Scikit-Learn" /></a>
-  <a href="https://pandas.pydata.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Pandas" /></a>
-  <a href="https://docs.opencv.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV" /></a>
-  <a href="https://huggingface.co/docs" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="HuggingFace" /></a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=keras" width="40" height="40" alt="Keras" /></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/matplotlib/11557C" width="40" height="40" alt="Matplotlib" /></a>
-
-
-  <h3>Advanced Frameworks & Web Ecosystem</h3>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI" /></a>
-  <a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /></a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="NestJS" /></a>
-  <a href="https://graphql.org/learn/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" /></a>
-  <a href="https://tailwindcss.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="Vite" /></a>
-  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=svelte" width="40" height="40" alt="Svelte" /></a>
-
-  <h3>Data Systems & Archiving</h3>
-  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /></a>
-  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /></a>
-  <a href="https://redis.io/documentation" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" width="40" height="40" alt="Redis" /></a>
-  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" /></a>
-  <a href="https://sqlite.org/docs.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite" /></a>
-  <a href="https://kafka.apache.org/documentation/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kafka" width="40" height="40" alt="Kafka" /></a>
-  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=rabbitmq" width="40" height="40" alt="RabbitMQ" /></a>
-  <a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="Prisma" /></a>
-  <a href="https://supabase.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" /></a>
-
-  <h3>Infrastructure & Systems Architecture</h3>
-  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>
-  <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" /></a>
-  <a href="https://www.terraform.io/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" alt="Terraform" /></a>
-  <a href="https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" alt="Jenkins" /></a>
-  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS" /></a>
-  <a href="https://docs.microsoft.com/en-us/azure/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure" /></a>
-  <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="40" height="40" alt="GCP" /></a>
-  <a href="https://docs.kernel.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" /></a>
-  <a href="https://vercel.com/docs" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" width="40" height="40" alt="Vercel" /></a>
-  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="40" height="40" alt="GitHub Actions" /></a>
-  <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
-</div>
-
-
-
+**Languages:** Python · Java · C (learning) · HTML/CSS  
+**ML/Data:** scikit-learn · pandas · NumPy · Matplotlib  
+**Hardware:** ESP32 · Arduino · sensor integration · motor control  
+**Tools:** Git · VS Code · Google Colab
 
 ---
 
-### 🚀 High-Impact Projects
+## Currently Learning
 
-#### 🛡️ ApexGuardian (In Development)
-*   **The Problem:** Fragmented security monitoring in complex distributed environments.
-*   **The Solution:** An AI-driven sentinel system that predicts vulnerabilities before they are exploited.
-*   **Tech:** Python, TensorFlow, Docker, AWS.
+- C fundamentals (GCC on Windows)
+- DSA (arrays, linked lists)
+- ESP32 firmware basics
 
-#### 🔄 ScholarSync
-*   **The Problem:** Global talent is often disconnected from high-leverage funding (MEXT, Fulbright).
-*   **The Solution:** An intelligent matching engine that optimizes candidate profiles for specific global migration routes.
-*   **Tech:** Next.js, FastAPI, PostgreSQL.
+---
 
-#### 🏛️ CivicShield AI
-*   **The Problem:** Lagging response times in municipal water quality and disease trend reporting.
-*   **The Solution:** Predictive analysis dashboard used for monitoring Tirupur river contamination levels in real-time.
-*   **Tech:** React, Python, Machine Learning, Map APIs.
+## Competitions
+
+- **Meta × Scaler Hackathon** — Team CODESTREAK · Round 1 April 2025 · OpenEnv environment task
 
 ---
 
