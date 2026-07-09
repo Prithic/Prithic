@@ -7,7 +7,7 @@
 **B.Tech AIML · Sri Shakthi Institute of Engineering and Technology · 2024–28**  
 Coimbatore, India
 
-Building at the intersection of AI systems and embedded hardware. First-year student with hands-on experience in sensors, motors, and microcontrollers — now moving up the stack into ML and software systems.
+Building at the intersection of AI systems, applied ML, web software, and embedded hardware. AIML student with hands-on work across sensors, motors, microcontrollers, FastAPI services, TypeScript interfaces, and Python ML experiments.
 
 ---
 
@@ -15,15 +15,24 @@ Building at the intersection of AI systems and embedded hardware. First-year stu
 
 **Neo Humanoid** — Long-term robotics project. Phase 1: C fundamentals, ESP32 firmware, Python data pipeline, Git discipline. Hardware background (sensors, motors) already in place.
 
-**Chitti Portfolio** — Sci-fi themed personal site with a 3D avatar and voice interface. In progress.
+**VoteOps** — Interactive election reasoning matrix with FastAPI, Python, Docker, and a Cloud Run deployment.
+
+**PixelBrush** — RL pixel-art agent using CLIP rewards, PPO, Gymnasium-style environments, and a small Gradio-facing Python stack.
+
+**ContextPrune** — RAG context filtering / compression experiment focused on reducing attention dilution in LLM workflows.
+
+**Smart Agriculture IoT** — Farm automation dashboard with JavaScript, HTML/CSS, and C++ hardware-side integration.
+
+**Portfolio / Chitti Portfolio** — Personal engineering dashboard and sci-fi themed portfolio work in TypeScript.
 
 ---
 
 ## Skills I Can Actually Show Code For
 
-**Languages:** Python · Java · C (learning) · HTML/CSS  
-**ML/Data:** scikit-learn · pandas · NumPy · Matplotlib  
-**Hardware:** ESP32 · Arduino · sensor integration · motor control  
+**Languages:** Python · TypeScript · JavaScript · Java · C/C++ (learning) · HTML/CSS<br />
+**AI/ML:** scikit-learn · pandas · NumPy · Matplotlib · CLIP · PPO/RL experiments · RAG workflows<br />
+**Web/Backend:** FastAPI · Docker · Cloud Run · React/TypeScript interfaces<br />
+**Hardware:** ESP32 · Arduino · sensor integration · motor control · IoT dashboards<br />
 **Tools:** Git · VS Code · Google Colab
 
 ---
@@ -33,6 +42,7 @@ Building at the intersection of AI systems and embedded hardware. First-year stu
 - C fundamentals (GCC on Windows)
 - DSA (arrays, linked lists)
 - ESP32 firmware basics
+- RL environments, LLM/RAG evaluation, and production-style web deployments
 
 ---
 
