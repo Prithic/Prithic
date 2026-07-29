@@ -1,111 +1,98 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Prithic.+%F0%9F%91%8B;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Prithic+P;AI+%2B+Full-Stack+Builder;Robotics%2C+IoT%2C+and+Applied+ML" alt="Typing introduction" />
 </div>
-  
+
+<p align="center">
+  <a href="https://github.com/Prithic?tab=repositories"><img src="https://img.shields.io/badge/building-public_projects-38BDF8?style=for-the-badge&labelColor=0F172A" alt="Building public projects" /></a>
+  <a href="https://linkedin.com/in/prithic-p"><img src="https://img.shields.io/badge/connect-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:prithicprithic2000@gmail.com"><img src="https://img.shields.io/badge/mail-prithic-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 # Prithic P
 
-**B.Tech AIML · Sri Shakthi Institute of Engineering and Technology · 2024–28**  
-Coimbatore, India
+**B.Tech AIML student at Sri Shakthi Institute of Engineering and Technology, Coimbatore**
 
-Building at the intersection of AI systems, applied ML, web software, and embedded hardware. AIML student with hands-on work across sensors, motors, microcontrollers, FastAPI services, TypeScript interfaces, and Python ML experiments.
-
----
-
-## What I'm Actually Building
-
-**Neo Humanoid** — Long-term robotics project. Phase 1: C fundamentals, ESP32 firmware, Python data pipeline, Git discipline. Hardware background (sensors, motors) already in place.
-
-**VoteOps** — Interactive election reasoning matrix with FastAPI, Python, Docker, and a Cloud Run deployment.
-
-**PixelBrush** — RL pixel-art agent using CLIP rewards, PPO, Gymnasium-style environments, and a small Gradio-facing Python stack.
-
-**ContextPrune** — RAG context filtering / compression experiment focused on reducing attention dilution in LLM workflows.
-
-**Smart Agriculture IoT** — Farm automation dashboard with JavaScript, HTML/CSS, and C++ hardware-side integration.
-
-**Portfolio / Chitti Portfolio** — Personal engineering dashboard and sci-fi themed portfolio work in TypeScript.
+I build practical AI systems, full-stack tools, IoT dashboards, and robotics experiments. My profile is designed to keep changing as my repositories change, so the strongest work stays visible without turning the README into a museum.
 
 ---
 
-## Skills I Can Actually Show Code For
+## Mission Control
 
-**Languages:** Python · TypeScript · JavaScript · Java · C/C++ (learning) · HTML/CSS<br />
-**AI/ML:** scikit-learn · pandas · NumPy · Matplotlib · CLIP · PPO/RL experiments · RAG workflows<br />
-**Web/Backend:** FastAPI · Docker · Cloud Run · React/TypeScript interfaces<br />
-**Hardware:** ESP32 · Arduino · sensor integration · motor control · IoT dashboards<br />
-**Tools:** Git · VS Code · Google Colab
-
----
-
-## Currently Learning
-
-- C fundamentals (GCC on Windows)
-- DSA (arrays, linked lists)
-- ESP32 firmware basics
-- RL environments, LLM/RAG evaluation, and production-style web deployments
+<!-- AUTO:CURRENT_FOCUS:start -->
+- Building practical AI and web systems from public repo work, not just profile badges.
+- Current momentum: Hostel-Surveillance, VoteOps, Pixelbrush.
+- Learning path: C fundamentals, embedded/ESP32 work, DSA, and production-style deployments.
+- Profile intelligence refreshed automatically at **2026-07-29 07:12 UTC**.
+<!-- AUTO:CURRENT_FOCUS:end -->
 
 ---
 
-## Competitions
+## Featured Builds
 
-- **Meta × Scaler Hackathon** — Team CODESTREAK · Round 1 April 2025 · OpenEnv environment task
-
----
-
-### 🌐 Connect Me
-
-<div align="center">
-  <a href="https://github.com/Prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/prithic-p" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>
-  <a href="https://x.com/prithic2007" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter" /></a>
-  <a href="https://stackoverflow.com/users/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="StackOverflow" /></a>
-  <a href="https://dev.to/prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=devto" width="48" height="48" alt="Dev.to" /></a>
-  <a href="https://hashnode.com/@prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=hashnode" width="48" height="48" alt="Hashnode" /></a>
-  <a href="https://medium.com/@prithic" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=medium" width="48" height="48" alt="Medium" /></a>
-  <br />
-  <a href="https://leetcode.com/prithic" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="35" height="35" alt="LeetCode" /></a>
-  <a href="https://hackerrank.com/prithic" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="35" height="35" alt="HackerRank" /></a>
-  <a href="https://codechef.com/users/prithic" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="35" height="35" alt="CodeChef" /></a>
-  <a href="https://chess.com/member/prithic" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/chessdotcom/769656" width="35" height="35" alt="Chess.com" /></a>
-  <br />
-  <a href="https://instagram.com/prithic.2007" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" /></a>
-  <a href="https://facebook.com/prithic.07" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=facebook" width="40" height="40" alt="Facebook" /></a>
-  <a href="mailto:prithicprithic2000@gmail.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" /></a>
-</div>
-
+<!-- AUTO:FEATURED_PROJECTS:start -->
+| Project | Stack signal | What it shows | Last push |
+| --- | --- | --- | --- |
+| [Hostel-Surveillance](https://github.com/Prithic/Hostel-Surveillance) | JavaScript | Active build from my GitHub workspace. | 2026-07-28 |
+| [VoteOps](https://github.com/Prithic/VoteOps) | HTML | Active build from my GitHub workspace. | 2026-05-03 |
+| [Pixelbrush](https://github.com/Prithic/Pixelbrush) | Python | Active build from my GitHub workspace. | 2026-04-26 |
+| [Venueflow](https://github.com/Prithic/Venueflow) | HTML | Active build from my GitHub workspace. | 2026-04-19 |
+| [ContextPrune](https://github.com/Prithic/ContextPrune) | Python | Active build from my GitHub workspace. | 2026-04-12 |
+| [Portfolio](https://github.com/Prithic/Portfolio) | TypeScript | Active build from my GitHub workspace. | 2026-04-07 |
+<!-- AUTO:FEATURED_PROJECTS:end -->
 
 ---
 
-### 📊 Performance Metrics
+## Skill Signal
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Prithic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prithic&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Langs" />
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- AUTO:SKILL_SIGNAL:start -->
+**Repo-inferred skills:** TypeScript | React | frontend systems | HTML/CSS | responsive UI | Python | FastAPI | ML experiments | JavaScript | browser apps | dashboards | Lua | AI systems | computer vision / monitoring | IoT dashboards | language learning tools
+
+**Language signal:** TypeScript (5) | HTML (3) | Python (3) | JavaScript (2) | Lua (1)
+<!-- AUTO:SKILL_SIGNAL:end -->
 
 ---
 
-### 🕹️ The Arena
+## Build Map
+
+| Track | What I am sharpening | Proof direction |
+| --- | --- | --- |
+| AI systems | RAG, CLIP/RL experiments, applied ML workflows | ContextPrune, PixelBrush, RAVEN-style reasoning systems |
+| Full-stack | TypeScript interfaces, FastAPI services, deployable apps | Portfolio work, VoteOps, education/product dashboards |
+| Hardware + IoT | ESP32, sensors, motor control, farm/hostel monitoring | Smart Agriculture IoT, surveillance dashboards, Neo Humanoid |
+| Fundamentals | C, DSA, Git discipline, clean project structure | Daily coding and long-term robotics groundwork |
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <em>The contribution graph is a battlefield. Every commit is a tactical move.</em>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,c,cpp,react,fastapi,docker,gcp,firebase,html,css,arduino,git,github,vscode" alt="Tech stack icons" />
 </p>
-<div align="center">
-  <img src="space-shooter.webp" alt="Space Shooter Animation" />
-</div>
+
+---
+
+## GitHub Dashboard
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prithic&color=3B82F6&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prithic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Prithic&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
 </div>
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://github.com/Prithic"><img src="https://skillicons.dev/icons?i=github" width="42" height="42" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/prithic-p"><img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" alt="LinkedIn" /></a>
+  <a href="https://x.com/prithic2007"><img src="https://skillicons.dev/icons?i=twitter" width="42" height="42" alt="X / Twitter" /></a>
+  <a href="https://dev.to/prithic"><img src="https://skillicons.dev/icons?i=devto" width="42" height="42" alt="Dev.to" /></a>
+  <a href="https://hashnode.com/@prithic"><img src="https://skillicons.dev/icons?i=hashnode" width="42" height="42" alt="Hashnode" /></a>
+  <a href="mailto:prithicprithic2000@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="42" height="42" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prithic&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
