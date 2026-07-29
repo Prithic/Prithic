@@ -82,6 +82,18 @@ I build practical AI systems, full-stack tools, IoT dashboards, and robotics exp
 
 ---
 
+## Space Shooter
+
+<p align="center">
+  <em>The contribution graph is a battlefield. Every commit is a tactical move.</em>
+</p>
+
+<div align="center">
+  <img src="space-shooter.webp" alt="Space Shooter contribution animation" />
+</div>
+
+---
+
 ## Connect
 
 <p align="center">
