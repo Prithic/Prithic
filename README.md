@@ -20,9 +20,9 @@ I build practical AI systems, full-stack tools, IoT dashboards, and robotics exp
 
 <!-- AUTO:CURRENT_FOCUS:start -->
 - Building practical AI and web systems from public repo work, not just profile badges.
-- Current momentum: Hostel-Surveillance, VoteOps, Pixelbrush.
+- Current momentum: Railmind, Hostel-Surveillance, VoteOps.
 - Learning path: C fundamentals, embedded/ESP32 work, DSA, and production-style deployments.
-- Profile intelligence refreshed automatically at **2026-07-29 07:12 UTC**.
+- Profile intelligence refreshed automatically at **2026-08-15 11:08 UTC**.
 <!-- AUTO:CURRENT_FOCUS:end -->
 
 ---
@@ -32,10 +32,10 @@ I build practical AI systems, full-stack tools, IoT dashboards, and robotics exp
 <!-- AUTO:FEATURED_PROJECTS:start -->
 | Project | Stack signal | What it shows | Last push |
 | --- | --- | --- | --- |
-| [Hostel-Surveillance](https://github.com/Prithic/Hostel-Surveillance) | JavaScript | Active build from my GitHub workspace. | 2026-07-28 |
+| [Railmind](https://github.com/Prithic/Railmind) | Python | Multi-agent railway anomaly operations dashboard with FastAPI, LangGraph, and React. | 2026-08-14 |
+| [Hostel-Surveillance](https://github.com/Prithic/Hostel-Surveillance) | JavaScript | Active build from my GitHub workspace. | 2026-07-23 |
 | [VoteOps](https://github.com/Prithic/VoteOps) | HTML | Active build from my GitHub workspace. | 2026-05-03 |
 | [Pixelbrush](https://github.com/Prithic/Pixelbrush) | Python | Active build from my GitHub workspace. | 2026-04-26 |
-| [Venueflow](https://github.com/Prithic/Venueflow) | HTML | Active build from my GitHub workspace. | 2026-04-19 |
 | [ContextPrune](https://github.com/Prithic/ContextPrune) | Python | Active build from my GitHub workspace. | 2026-04-12 |
 | [Portfolio](https://github.com/Prithic/Portfolio) | TypeScript | Active build from my GitHub workspace. | 2026-04-07 |
 <!-- AUTO:FEATURED_PROJECTS:end -->
