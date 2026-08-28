@@ -22,7 +22,7 @@ I build practical AI systems, full-stack tools, IoT dashboards, and robotics exp
 - Building practical AI and web systems from public repo work, not just profile badges.
 - Current momentum: Railmind, Hostel-Surveillance, VoteOps.
 - Learning path: C fundamentals, embedded/ESP32 work, DSA, and production-style deployments.
-- Profile intelligence refreshed automatically at **2026-08-22 06:02 UTC**.
+- Profile intelligence refreshed automatically at **2026-08-28 03:41 UTC**.
 <!-- AUTO:CURRENT_FOCUS:end -->
 
 ---
@@ -37,7 +37,7 @@ I build practical AI systems, full-stack tools, IoT dashboards, and robotics exp
 | [VoteOps](https://github.com/Prithic/VoteOps) | HTML | Active build from my GitHub workspace. | 2026-05-03 |
 | [Pixelbrush](https://github.com/Prithic/Pixelbrush) | Python | Active build from my GitHub workspace. | 2026-04-26 |
 | [ContextPrune](https://github.com/Prithic/ContextPrune) | Python | Active build from my GitHub workspace. | 2026-04-12 |
-| [Portfolio](https://github.com/Prithic/Portfolio) | TypeScript | Active build from my GitHub workspace. | 2026-04-07 |
+| [Venueflow](https://github.com/Prithic/Venueflow) | HTML | Active build from my GitHub workspace. | 2026-04-19 |
 <!-- AUTO:FEATURED_PROJECTS:end -->
 
 ---
