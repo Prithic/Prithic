@@ -19,10 +19,10 @@ I build practical AI systems, full-stack tools, IoT dashboards, and robotics exp
 ## Mission Control
 
 <!-- AUTO:CURRENT_FOCUS:start -->
-- Building practical AI and web systems from public repo work, not just profile badges.
-- Current momentum: Railmind, Hostel-Surveillance, VoteOps.
+- Building practical AI, verification pipelines, and web systems from public repo work, not just profile badges.
+- Current momentum: ProofAnchor, Railmind, Hostel-Surveillance.
 - Learning path: C fundamentals, embedded/ESP32 work, DSA, and production-style deployments.
-- Profile intelligence refreshed automatically at **2026-08-28 03:41 UTC**.
+- Profile intelligence refreshed automatically at **2026-09-04 06:34 UTC**.
 <!-- AUTO:CURRENT_FOCUS:end -->
 
 ---
@@ -32,12 +32,12 @@ I build practical AI systems, full-stack tools, IoT dashboards, and robotics exp
 <!-- AUTO:FEATURED_PROJECTS:start -->
 | Project | Stack signal | What it shows | Last push |
 | --- | --- | --- | --- |
+| [ProofAnchor](https://github.com/Prithic/ProofAnchor) | Python | Privacy-conscious face-evidence pipeline with reverse-image search and planned on-chain proof anchoring. | 2026-09-03 |
 | [Railmind](https://github.com/Prithic/Railmind) | Python | Multi-agent railway anomaly operations dashboard with FastAPI, LangGraph, and React. | 2026-08-18 |
 | [Hostel-Surveillance](https://github.com/Prithic/Hostel-Surveillance) | JavaScript | Active build from my GitHub workspace. | 2026-07-31 |
 | [VoteOps](https://github.com/Prithic/VoteOps) | HTML | Active build from my GitHub workspace. | 2026-05-03 |
 | [Pixelbrush](https://github.com/Prithic/Pixelbrush) | Python | Active build from my GitHub workspace. | 2026-04-26 |
 | [ContextPrune](https://github.com/Prithic/ContextPrune) | Python | Active build from my GitHub workspace. | 2026-04-12 |
-| [Venueflow](https://github.com/Prithic/Venueflow) | HTML | Active build from my GitHub workspace. | 2026-04-19 |
 <!-- AUTO:FEATURED_PROJECTS:end -->
 
 ---
@@ -45,9 +45,9 @@ I build practical AI systems, full-stack tools, IoT dashboards, and robotics exp
 ## Skill Signal
 
 <!-- AUTO:SKILL_SIGNAL:start -->
-**Repo-inferred skills:** TypeScript | React | frontend systems | HTML/CSS | responsive UI | Python | FastAPI | ML experiments | JavaScript | browser apps | dashboards | Lua | AI systems | computer vision / monitoring | IoT dashboards | language learning tools
+**Repo-inferred skills:** TypeScript | React | frontend systems | HTML/CSS | responsive UI | Python | FastAPI | ML experiments | evidence pipelines | privacy-conscious verification | Solidity | JavaScript | browser apps | dashboards | Lua | AI systems | computer vision / monitoring | IoT dashboards | language learning tools
 
-**Language signal:** TypeScript (5) | HTML (3) | Python (3) | JavaScript (2) | Lua (1)
+**Language signal:** Python (6) | TypeScript (5) | HTML (3) | JavaScript (2) | Lua (1)
 <!-- AUTO:SKILL_SIGNAL:end -->
 
 ---
