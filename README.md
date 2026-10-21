@@ -22,7 +22,7 @@ I build practical AI systems, full-stack tools, IoT dashboards, and robotics exp
 - Building practical AI, verification pipelines, and web systems from public repo work, not just profile badges.
 - Current momentum: ProofAnchor, Railmind, Hostel-Surveillance.
 - Learning path: C fundamentals, embedded/ESP32 work, DSA, and production-style deployments.
-- Profile intelligence refreshed automatically at **2026-10-14 06:53 UTC**.
+- Profile intelligence refreshed automatically at **2026-10-21 06:26 UTC**.
 <!-- AUTO:CURRENT_FOCUS:end -->
 
 ---
@@ -34,7 +34,7 @@ I build practical AI systems, full-stack tools, IoT dashboards, and robotics exp
 | --- | --- | --- | --- |
 | [ProofAnchor](https://github.com/Prithic/ProofAnchor) | Python | Privacy-conscious face-evidence pipeline with reverse-image search and planned on-chain proof anchoring. | 2026-09-03 |
 | [Railmind](https://github.com/Prithic/Railmind) | Python | Multi-agent railway anomaly operations dashboard with FastAPI, LangGraph, and React. | 2026-08-14 |
-| [Hostel-Surveillance](https://github.com/Prithic/Hostel-Surveillance) | JavaScript | Active build from my GitHub workspace. | 2026-07-31 |
+| [Hostel-Surveillance](https://github.com/Prithic/Hostel-Surveillance) | JavaScript | Active build from my GitHub workspace. | 2026-07-23 |
 | [VoteOps](https://github.com/Prithic/VoteOps) | HTML | Active build from my GitHub workspace. | 2026-05-03 |
 | [Pixelbrush](https://github.com/Prithic/Pixelbrush) | Python | Active build from my GitHub workspace. | 2026-04-26 |
 | [ContextPrune](https://github.com/Prithic/ContextPrune) | Python | Active build from my GitHub workspace. | 2026-04-12 |
