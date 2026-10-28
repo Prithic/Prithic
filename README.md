@@ -20,9 +20,9 @@ I build practical AI systems, full-stack tools, IoT dashboards, and robotics exp
 
 <!-- AUTO:CURRENT_FOCUS:start -->
 - Building practical AI, verification pipelines, and web systems from public repo work, not just profile badges.
-- Current momentum: ProofAnchor, Railmind, Hostel-Surveillance.
+- Current momentum: RuleRun Lite, ProofAnchor, Railmind, Hostel-Surveillance.
 - Learning path: C fundamentals, embedded/ESP32 work, DSA, and production-style deployments.
-- Profile intelligence refreshed automatically at **2026-10-21 06:26 UTC**.
+- Profile intelligence refreshed automatically at **2026-10-28 06:35 UTC**.
 <!-- AUTO:CURRENT_FOCUS:end -->
 
 ---
@@ -32,6 +32,7 @@ I build practical AI systems, full-stack tools, IoT dashboards, and robotics exp
 <!-- AUTO:FEATURED_PROJECTS:start -->
 | Project | Stack signal | What it shows | Last push |
 | --- | --- | --- | --- |
+| [RuleRun Lite](https://github.com/Prithic/rulerun-lite) | TypeScript | Next.js property-testing workbench with fast-check, isolated QuickJS execution, and regression-test export. | 2026-10-26 |
 | [ProofAnchor](https://github.com/Prithic/ProofAnchor) | Python | Privacy-conscious face-evidence pipeline with reverse-image search and planned on-chain proof anchoring. | 2026-09-03 |
 | [Railmind](https://github.com/Prithic/Railmind) | Python | Multi-agent railway anomaly operations dashboard with FastAPI, LangGraph, and React. | 2026-08-14 |
 | [Hostel-Surveillance](https://github.com/Prithic/Hostel-Surveillance) | JavaScript | Active build from my GitHub workspace. | 2026-07-23 |
@@ -45,9 +46,9 @@ I build practical AI systems, full-stack tools, IoT dashboards, and robotics exp
 ## Skill Signal
 
 <!-- AUTO:SKILL_SIGNAL:start -->
-**Repo-inferred skills:** TypeScript | React | frontend systems | HTML/CSS | responsive UI | Python | FastAPI | ML experiments | evidence pipelines | privacy-conscious verification | Solidity | JavaScript | browser apps | dashboards | Lua | AI systems | computer vision / monitoring | IoT dashboards | language learning tools
+**Repo-inferred skills:** TypeScript | React | frontend systems | HTML/CSS | responsive UI | property-based testing | browser sandboxing | Python | FastAPI | ML experiments | evidence pipelines | privacy-conscious verification | Solidity | JavaScript | browser apps | dashboards | Lua | AI systems | computer vision / monitoring | IoT dashboards | language learning tools
 
-**Language signal:** Python (6) | TypeScript (5) | HTML (3) | JavaScript (2) | Lua (1)
+**Language signal:** Python (6) | TypeScript (6) | HTML (3) | JavaScript (2) | Lua (1)
 <!-- AUTO:SKILL_SIGNAL:end -->
 
 ---
