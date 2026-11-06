@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://github.com/Prithic?tab=repositories"><img src="https://img.shields.io/badge/building-public_projects-38BDF8?style=for-the-badge&labelColor=0F172A" alt="Building public projects" /></a>
   <a href="https://linkedin.com/in/prithic-p"><img src="https://img.shields.io/badge/connect-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://buymeacoffee.com/prithic"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" /></a>
   <a href="mailto:prithicprithic2000@gmail.com"><img src="https://img.shields.io/badge/mail-prithic-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
